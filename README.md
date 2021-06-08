@@ -4,7 +4,7 @@ A Flutter BMI calculator App.
 
 ## Getting Started
 
-You can download the .apk file from: https://drive.google.com/file/d/1HdoZC1a6EKzYrXOM16hK4LXfBf4P75Ow/view?usp=sharing
+You can download the .apk file from: https://drive.google.com/file/d/1HdoZC1a6EKzYrXOM16hK4LXfBf4P75Ow/view?usp=sharing  Only for Android Users.
 
 ### The UI of this inspired from Dmitry Mashkin's BMI calculator UI on Dribbble.
 
